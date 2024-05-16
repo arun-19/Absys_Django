@@ -1,0 +1,49 @@
+{% extends "Navbar.html" %}
+
+{% load static %}
+
+{% block content %}
+
+
+<form action="{% url "addrow" %}" method="post">
+ {% csrf_token %}
+  <div class="form-group row">
+    <div class="col-sm-6">
+    <label for="cname">Unit name</label>
+    <input type="text" name="uname" class="form-control" id="uname" aria-describedby="emailHelp" placeholder="Unit name">
+  </div>
+
+
+
+  </div>
+
+
+  
+  <div class="form-group row">
+    <div class="col-sm-6">
+    <label for="district">district</label>
+    <input type="text" name="district" class="form-control" id="district" placeholder="district">
+    </div>
+
+    <div class="col-sm-6">
+      <label for="gst">gst</label>
+      <input type="text" name="gst" class="form-control" id="gst" placeholder="gst">
+    </div>
+
+  </div>
+
+ 
+
+  <div class="form-group m-4   text-right">
+  <button type="submit" class="btn btn-secondary mt-2">Submit</button>
+  </div>
+
+</form>
+
+
+{% include "../company/Table.html" %}
+
+
+<script type="text/javascript" src="{% static '/js/company.js' %}"></script>
+{% endblock content %}
+

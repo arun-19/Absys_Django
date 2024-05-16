@@ -1,0 +1,170 @@
+[
+	{
+		"pk" : 1,
+		"state" : "Andhra Pradesh",
+		"code" : 37,
+		"disc_per" : null
+	},
+	{
+		"pk" : 2,
+		"state" : "Arunachal Pradesh",
+		"code" : 12,
+		"disc_per" : null
+	},
+	{
+		"pk" : 3,
+		"state" : "Assam\t",
+		"code" : 1,
+		"disc_per" : null
+	},
+	{
+		"pk" : 4,
+		"state" : "Bihar\t",
+		"code" : 10,
+		"disc_per" : null
+	},
+	{
+		"pk" : 5,
+		"state" : "Chhattisgarh",
+		"code" : 22,
+		"disc_per" : null
+	},
+	{
+		"pk" : 6,
+		"state" : "Goa",
+		"code" : 30,
+		"disc_per" : null
+	},
+	{
+		"pk" : 7,
+		"state" : "Gujarat",
+		"code" : 24,
+		"disc_per" : null
+	},
+	{
+		"pk" : 8,
+		"state" : "Haryana",
+		"code" : 6,
+		"disc_per" : null
+	},
+	{
+		"pk" : 9,
+		"state" : "Himachal Pradesh",
+		"code" : 2,
+		"disc_per" : null
+	},
+	{
+		"pk" : 10,
+		"state" : "Jharkhand",
+		"code" : 20,
+		"disc_per" : null
+	},
+	{
+		"pk" : 11,
+		"state" : "Karnataka",
+		"code" : 29,
+		"disc_per" : null
+	},
+	{
+		"pk" : 12,
+		"state" : "Kerala",
+		"code" : 32,
+		"disc_per" : null
+	},
+	{
+		"pk" : 13,
+		"state" : "Madhya Pradesh",
+		"code" : 23,
+		"disc_per" : null
+	},
+	{
+		"pk" : 14,
+		"state" : "Maharashtra",
+		"code" : 27,
+		"disc_per" : null
+	},
+	{
+		"pk" : 15,
+		"state" : "Manipur",
+		"code" : 14,
+		"disc_per" : null
+	},
+	{
+		"pk" : 16,
+		"state" : "Meghalaya",
+		"code" : 17,
+		"disc_per" : null
+	},
+	{
+		"pk" : 17,
+		"state" : "Mizoram",
+		"code" : 15,
+		"disc_per" : null
+	},
+	{
+		"pk" : 18,
+		"state" : "Nagaland",
+		"code" : 13,
+		"disc_per" : null
+	},
+	{
+		"pk" : 19,
+		"state" : "Odisha",
+		"code" : 21,
+		"disc_per" : null
+	},
+	{
+		"pk" : 20,
+		"state" : "Punjab",
+		"code" : 3,
+		"disc_per" : null
+	},
+	{
+		"pk" : 21,
+		"state" : "Rajasthan",
+		"code" : 8,
+		"disc_per" : null
+	},
+	{
+		"pk" : 22,
+		"state" : "Sikkim",
+		"code" : 11,
+		"disc_per" : null
+	},
+	{
+		"pk" : 23,
+		"state" : "Tamil Nadu",
+		"code" : 33,
+		"disc_per" : null
+	},
+	{
+		"pk" : 24,
+		"state" : "Telangana",
+		"code" : 36,
+		"disc_per" : null
+	},
+	{
+		"pk" : 25,
+		"state" : "Tripura",
+		"code" : 16,
+		"disc_per" : null
+	},
+	{
+		"pk" : 26,
+		"state" : "Uttar Pradesh",
+		"code" : 9,
+		"disc_per" : null
+	},
+	{
+		"pk" : 27,
+		"state" : "Uttarakhand",
+		"code" : 5,
+		"disc_per" : null
+	},
+	{
+		"pk" : 28,
+		"state" : "West Bengal",
+		"code" : 19,
+		"disc_per" : null
+	}
+]
